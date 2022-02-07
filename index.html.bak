@@ -160,7 +160,7 @@
 		</div>
       </fieldset>
 	  
-      <button type="submit">Send Me</button>
+      <input type="send me">
 	  
      </form>
     </body>
